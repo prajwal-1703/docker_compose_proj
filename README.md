@@ -187,9 +187,11 @@ Before trying the Docker-based methods, ensure you have:
 
 ## 📞 Contact
 
-If you're exploring DevOps or Docker and have suggestions or questions, feel free to connect or raise an issue!
-https://x.com/deva_1703
-https://www.linkedin.com/in/prajwal-athare-a4074628a/
+If you're exploring **DevOps** or **Docker** and have suggestions, questions, or want to connect — feel free to reach out:
+
+- 🔗 [Twitter / X](https://x.com/deva_1703)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prajwal-athare-a4074628a/)
+
 ---
 
 
