@@ -1,4 +1,4 @@
-```md
+
 # 🐳 Docker Setup Comparison Project
 
 This project demonstrates **three different ways** to set up and run a Node.js (TypeScript + Prisma) application:
